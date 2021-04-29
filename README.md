@@ -12,9 +12,11 @@ I'm a Full Stack Software Developer specialising in the Javascript ecosystem - p
 #### Tech Stack:
 
 <p>  
-  <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="drawing" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="drawing" width="70" height="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Uwiil7q-Oq_EMK41OxZNDc7q5SqEX8pMnA&usqp=CAU" alt="drawing" width="50" height="50"/>
+  <img src="https://github.com/geroalexander/geroalexander/blob/main/assets/JS.png?raw=true" alt="js" height="50"/>
+  <img src="https://raw.githubusercontent.com/smartin88/smartin88/55feb0e04b454f02d4658d0d8e80946dc187d302/logos_react.svg" alt="react" height="50"/>
+  <img src="https://github.com/geroalexander/geroalexander/blob/main/assets/TS.png?raw=true" alt="ts" height="50"/>
+  <img src="https://github.com/geroalexander/geroalexander/blob/main/assets/MONGO.png?raw=true" alt="drawing" height="50"/>
+  <img src="https://github.com/geroalexander/geroalexander/blob/main/assets/SQL.png?raw=true" alt="drawing" height="50"/>
 </p>
 <!--
 **raphaelj274/raphaelj274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
