@@ -2,11 +2,7 @@
 
 aka `Jono`
 
-I'm a Full Stack Software Developer specialising in the Javascript ecosystem - particularly React (& React Native), Typescript, Node.js and GraphQL.
-
-#### Current projects I'm working on: 
-
-* [Cram](https://github.com/raphaelj274/cram/) - Ed-tech native app that leverages AI to help students move past breakpoints
+I'm a Full Stack Software Developer and co-founder of [Borderless](getborderless.co.uk)
 
 
 #### Tech Stack:
