@@ -2,7 +2,7 @@
 
 aka `Jono`
 
-I'm a Full Stack Software Developer and co-founder of [Borderless](https://www.getborderless.co.uk)
+Co-founder of [Borderless](https://www.getborderless.co.uk)
 
 
 #### Tech Stack:
